@@ -9,8 +9,8 @@ body{
 }
 #container {
     padding: 15px 0;
-    height: 400px;
-    width: 400px;
+    height: 370px;
+    width: 370px;
     box-shadow: 8px 1px 8px 1px;
     display: flex;
     background-color: #7579a0;
@@ -23,9 +23,9 @@ body{
 }
 
 .box {
-    height: 120px;
+    height: 110px;
     background-color: rgba(38, 52, 49, 0.62);
-    width: 120px;
+    width: 110px;
     display: flex;
     border: 1px solid black;
     border-radius: 8px;
